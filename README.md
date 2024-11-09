@@ -1,16 +1,19 @@
 ## Hi there 👋
+- 🧑‍💻 I'm a backend engineer.
+- 📫 How to reach me: [X - @pit_engineer](https://twitter.com/pit_engineer)
+- 📫 How to reach me: [Qiita - @nishikawaakna](https://qiita.com/nishikawaakna)
+<br>
 
-<!--
-**nishikawa-na/nishikawa-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My App
+[Repository](https://github.com/nishikawa-na/busakawa_photo) <br>
+[service](https://busakawa.com/)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,html,css,js,docker,linux,aws,figma" />
+<br>
+
+## Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishikawa-na)](https://github.com/ryo-ma/github-profile-trophy) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishikawa-na&show_icons=true&theme=radical)
