@@ -4,7 +4,7 @@
  📫 How to reach me: [Qiita - @nishikawaakna](https://qiita.com/nishikawaakna)　<br>
 ## My App
 [Repository](https://github.com/nishikawa-na/busakawa_photo) <br>
-[service](https://busakawa.com/) <br>
+[Service](https://busakawa.com/) <br>
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,html,css,js,docker,linux,aws,figma" /> <br>
 ## Stats
