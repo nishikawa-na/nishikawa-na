@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🧑‍💻 I'm a backend engineer.
-- 📫 How to reach me: [X - @pit_engineer](https://twitter.com/pit_engineer)
-- 📫 How to reach me: [Qiita - @nishikawaakna](https://qiita.com/nishikawaakna)　<br>
+ 🧑‍💻 I'm a backend engineer. <br>
+ 📫 How to reach me: [X - @pit_engineer](https://twitter.com/pit_engineer) <br>
+ 📫 How to reach me: [Qiita - @nishikawaakna](https://qiita.com/nishikawaakna)　<br>
 ## My App
 [Repository](https://github.com/nishikawa-na/busakawa_photo) <br>
 [service](https://busakawa.com/) <br>
