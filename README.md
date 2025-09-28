@@ -8,5 +8,4 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,html,css,js,docker,linux,aws,figma" /> <br>
 ## Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishikawa-na)](https://github.com/ryo-ma/github-profile-trophy) <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishikawa-na&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishikawa-na)](https://github.com/ryo-ma/github-profile-trophy) 
