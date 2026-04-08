@@ -7,5 +7,3 @@
 [Service](https://busakawa.com/) <br>
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,html,css,js,react,docker,linux,aws,figma" /> <br>
-## Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishikawa-na)](https://github.com/ryo-ma/github-profile-trophy) 
