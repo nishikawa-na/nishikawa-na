@@ -6,4 +6,4 @@
 [Repository](https://github.com/nishikawa-na/busakawa_photo) <br>
 [Service](https://busakawa.com/) <br>
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,html,css,js,typescript,react,docker,linux,aws,figma" /> <br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,html,css,js,react,docker,linux,aws,figma" /> <br>
